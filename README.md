@@ -1,79 +1,117 @@
-# juzicloud桔子云官网地址
+# JuziCloud 桔子云最新地址（2026最新）
 
-最新地址：[juzi610.com](https://juzi62.xyz/auth/register?code=jPPo)
+## 官方链接汇总
 
-## 简介
+| 分类 | 官网地址 |
+|------|------|
+| 官方主站 | [juzi52.net](https://juzi52.net/auth/register?code=jPPo) |
+| 官方备用站1 | [juzi52.xyz](https://juzi52.xyz/auth/register?code=jPPo) |
+| 官方备用站2 | [juzi62.xyz](https://juzi62.xyz/auth/register?code=jPPo) |
 
-桔子云(JuziCloud)，又称桔子云加速器，是一家专业的SSR/V2Ray机场，速鹰旗下老站，拥有近50个付费节点，全部使用CN2/BGP隧道中转和IPLC国际专线，套餐灵活，性价比高，适合各类人群使用。
+---
 
-无论您是重度视频用户，或仅有短期需求的用户或者对流量使用频率低的用户，都可以在桔子云(JuziCloud)找到适合您的流量套餐。
+## 关于 JuziCloud
 
-桔子云曾经还做过免费公益机场，后来迫于成本压力而停运，转成完全收费的优质机场。
+JuziCloud（桔子云）是一家提供SSR与V2Ray节点服务的专业机场平台。
 
-## 桔子云优惠码
+平台长期运营，拥有完善的节点维护团队和线路优化经验。通过部署CN2 GIA线路、BGP中转网络以及IPLC国际专线，帮助用户获得更流畅、更稳定的网络连接体验。
 
-特惠包年7折优惠代码：JJ1234 
+对于需要观看海外流媒体、远程办公、跨境电商运营以及国际业务沟通的用户来说，桔子云提供了较高性价比的解决方案。
 
-结束时间2026.1.31
+---
 
-## 特色
+## 最新优惠码
 
-<ul>
-<li>流量充足，价格便宜，线路节点档次分明，覆盖绝大多数人群的使用需求；</li>
-<li>支持主流客户端 SSR/V2Ray 订阅链接；</li>
-<li>拥有遍布全球的CN2 GIA/BGP/IPLC内网专线等优质线路节点；</li>
-<li>国内采用CN2/BGP入口，隧道中转，极速稳定；</li>
-<li>付费节点全部解锁Nitflix/HULU/HBO等国外流媒体；</li>
-<li>支持工单、在线客服和TG群交流。</li>
-</ul>
+使用优惠码：
 
-## 套餐列表
+`JJ1234`
 
-<table style="width: 988px;">
-<tbody>
-<tr>
-<td style="text-align: center; width: 165px;">套餐类型</td>
-<td style="text-align: center; width: 86px;">月流量</td>
-<td style="text-align: center; width: 112px;">在线设备</td>
-<td style="text-align: center; width: 82px;">月付</td>
-<td style="text-align: center; width: 543px;">线路</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 165px;">入门版</td>
-<td style="text-align: center; width: 86px;">100G</td>
-<td style="text-align: center; width: 112px;">2</td>
-<td style="text-align: center; width: 82px;">19.9元</td>
-<td style="text-align: center; width: 543px;">国内中转/入门版节点</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 165px;">基本版</td>
-<td style="text-align: center; width: 86px;">200G</td>
-<td style="text-align: center; width: 112px;">3</td>
-<td style="text-align: center; width: 82px;">29.9元</td>
-<td style="text-align: center; width: 543px;">国内中转/入门版/基础版节点</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 165px;">标准版</td>
-<td style="text-align: center; width: 86px;">350G</td>
-<td style="text-align: center; width: 112px;">5</td>
-<td style="text-align: center; width: 82px;">39.9元</td>
-<td style="text-align: center; width: 543px;">国内中转/入门版/基础版/标准版节点</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 165px;">旗舰版</td>
-<td style="text-align: center; width: 86px;">600G</td>
-<td style="text-align: center; width: 112px;">8</td>
-<td style="text-align: center; width: 82px;">59.9元</td>
-<td style="text-align: center; width: 543px;">国内中转/入门版/基础版/标准版节点/IPLC专线</td>
-</tr>
-<tr>
-<td style="text-align: center; width: 165px;">旗舰版大流量</td>
-<td style="text-align: center; width: 86px;">1200G</td>
-<td style="text-align: center; width: 112px;">10</td>
-<td style="text-align: center; width: 82px;">99.9元</td>
-<td style="text-align: center; width: 543px;">除以上所有节点外，还有老板专线</td>
-</tr>
-</tbody>
-</table>
+可享受：
 
-桔子云所有套餐全部采用CN2/BGP隧道中转，旗舰版套餐还有IPLC内网专线和企业老板专线节点，而且桔子云机场的入门版套餐节点的速度和稳定性也非常优秀。
+**年付套餐7折优惠**
+
+截止日期：
+
+**2026-06-30**
+
+---
+
+## 平台亮点
+
+### 多协议支持
+
+支持：
+
+- SSR
+- V2Ray
+
+兼容主流客户端软件。
+
+### 全球节点覆盖
+
+节点地区包括：
+
+- 香港
+- 日本
+- 新加坡
+- 美国
+- 韩国
+- 台湾
+
+### 高质量线路
+
+采用：
+
+- CN2 GIA
+- BGP优化线路
+- IPLC专线网络
+
+### 流媒体解锁
+
+支持：
+
+- Netflix
+- HBO
+- Hulu
+- Disney+
+- TikTok
+
+---
+
+## 套餐说明
+
+| 套餐 | 月流量 | 设备限制 | 月费 |
+|------|------|------|------|
+| 入门版 | 100G | 2台 | 19.9元 |
+| 基础版 | 200G | 3台 | 29.9元 |
+| 标准版 | 350G | 5台 | 39.9元 |
+| 旗舰版 | 600G | 8台 | 59.9元 |
+| 大流量版 | 1200G | 10台 | 99.9元 |
+
+---
+
+## 常见问题 FAQ
+
+### 桔子云支持哪些客户端？
+
+支持SSR客户端和V2Ray客户端，包括Windows、MacOS、Android和iOS设备。
+
+### 是否支持Netflix？
+
+支持，付费节点可解锁Netflix等主流海外流媒体平台。
+
+### 哪个套餐最值得购买？
+
+大部分用户选择标准版或旗舰版套餐，可以兼顾流量与价格。
+
+### 是否有专线节点？
+
+旗舰版及以上套餐可使用IPLC专线节点。
+
+---
+
+## 总体评价
+
+从线路质量、节点数量、价格定位以及用户反馈来看，JuziCloud属于目前较受欢迎的SSR/V2Ray机场之一。
+
+如果你正在寻找稳定的CN2机场或IPLC专线机场，桔子云是一个值得了解的平台。
